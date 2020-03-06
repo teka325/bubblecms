@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "/home/tekano/anaconda3/envs/kitsocms/bin/python",
+    "python.pythonPath": "/home/tekano/Dev/kitsocms/env/bin/python3.6",
     "python.formatting.provider": "autopep8"
 }

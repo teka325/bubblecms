@@ -1,0 +1,10 @@
+{% extends "wagtailadmin/shared/menu_settings_menu_item.html" %}
+{% load kitsocms_tags %}
+
+{% block menu_footer %}
+<li class="footer">
+    <div class="menu-item">
+        <p class="wagtail-version">CodeRed&nbsp;CMS v&nbsp;{% kitsocms_version %}</p>
+    </div>
+</li>
+{% endblock %}
